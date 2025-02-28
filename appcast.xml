@@ -17,9 +17,9 @@
                 url="https://github.com/dairan-com/PRDash-Updates/releases/download/v0.0.3/PRDash.zip"
                 sparkle:version="3"
                 sparkle:shortVersionString="0.0.3"
-                length="6220069"
+                length="4925639"
                 type="application/octet-stream"
-                sparkle:edSignature="LoIo0NYypN0QsHzl6UkAzAVrMgp1C7p8cIwRCDGdoLZ9OLqF8Tu+RJ7DoABivbNmZ37RfYgMAglQMldbCT38Bw==" />
+                sparkle:edSignature="yHhMXCza4sCj1PQHbDmty9oeI83z8132aaUzZb8RC+QMOwX4vw8YnQQLAKhqrUp9aTKzxtWHiZgFjV2e8eTpDQ==" />
         </item>
     </channel>
 </rss>
