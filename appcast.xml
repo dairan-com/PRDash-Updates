@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>PRDash Updates</title>
+        <link>https://github.com/dairan-com/PRDash/releases</link>
+        <description>Latest updates for PRDash</description>
+        <language>en</language>
+
+        <item>
+            <title>Version 0.0.3</title>
+            <sparkle:releaseNotesLink>https://github.com/dairan-com/PRDash/releases/tag/v0.0.3</sparkle:releaseNotesLink>
+            <pubDate>Fri, 28 Feb 2025 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/dairan-com/PRDash/releases/download/v0.0.3/PRDash.zip"
+                       sparkle:version="3"
+                       sparkle:shortVersionString="0.0.3"
+                       length="12345678"
+                       type="application/octet-stream"
+                       sparkle:edSignature="m5c0Pp9E4W0XqJ3hJ4n5gR7vZ3v..." />
+        </item>
+    </channel>
+</rss>
